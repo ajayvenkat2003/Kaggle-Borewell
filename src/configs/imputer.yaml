@@ -1,0 +1,4 @@
+#Configuration of Imputer for Gamma Ray Field
+model:
+  KIND: "KNN"
+  n_neighbors: 5

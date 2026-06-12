@@ -1,0 +1,25 @@
+train:
+  - MD
+  - X
+  - Y
+  - Z
+  - GR
+  - TVT
+  - TVT_input
+
+test:
+  - MD
+  - X
+  - Y
+  - Z
+  - GR
+  - TVT_input
+
+imputer:
+  - X
+  - Y
+  - Z
+  
+target: TVT
+
+

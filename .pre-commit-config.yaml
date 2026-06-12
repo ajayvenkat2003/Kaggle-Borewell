@@ -1,0 +1,7 @@
+repos:
+  - repo: https://github.com
+    hooks:
+      - id: detect-secrets
+      - id: check-added-large-files
+      - id: ruff
+      - id: ruff-format

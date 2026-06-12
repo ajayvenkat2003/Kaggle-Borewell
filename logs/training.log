@@ -1,0 +1,434 @@
+
+2026-06-11 22:28:24,725 - INFO - preprocessing started
+2026-06-11 22:28:25,027 - INFO - preprocessing completed
+2026-06-11 22:28:25,029 - INFO - traiing size = 62788
+2026-06-11 22:28:25,029 - INFO - training started
+2026-06-11 22:28:27,849 - INFO - training completed
+2026-06-11 22:30:42,606 - INFO - preprocessing started
+2026-06-11 22:30:42,879 - INFO - preprocessing completed
+2026-06-11 22:30:42,879 - INFO - training size = 62788
+2026-06-11 22:30:42,879 - INFO - Model:xgboost
+2026-06-11 22:30:42,879 - INFO - training started
+2026-06-11 22:30:44,347 - INFO - training completed
+2026-06-11 22:54:19,857 - INFO - preprocessing started
+2026-06-11 22:54:20,146 - INFO - preprocessing completed
+2026-06-11 22:54:20,146 - INFO - training size = 62788
+2026-06-11 22:54:20,146 - INFO - Model:xgboost
+2026-06-11 22:54:20,146 - INFO - training started
+2026-06-11 22:54:23,016 - INFO - training completed
+2026-06-12 11:53:09,175 - INFO - preprocessing started
+2026-06-12 11:53:09,175 - INFO - preprocessing started
+2026-06-12 11:53:09,509 - INFO - preprocessing completed
+2026-06-12 11:53:09,509 - INFO - preprocessing completed
+2026-06-12 11:53:09,509 - INFO - training size = 62788
+2026-06-12 11:53:09,509 - INFO - training size = 62788
+2026-06-12 11:53:09,516 - INFO - Model:xgboost
+2026-06-12 11:53:09,516 - INFO - Model:xgboost
+2026-06-12 11:53:09,516 - INFO - training started
+2026-06-12 11:53:09,516 - INFO - training started
+2026-06-12 11:53:12,408 - INFO - training completed
+2026-06-12 11:53:12,408 - INFO - training completed
+2026-06-12 11:53:12,408 - ERROR - Experiment Failed:'ModelLogger' object has no attribute 'experiment'
+2026-06-12 11:53:12,408 - ERROR - Experiment Failed:'ModelLogger' object has no attribute 'experiment'
+2026-06-12 11:54:08,134 - INFO - preprocessing started
+2026-06-12 11:54:08,134 - INFO - preprocessing started
+2026-06-12 11:54:08,413 - INFO - preprocessing completed
+2026-06-12 11:54:08,413 - INFO - preprocessing completed
+2026-06-12 11:54:08,413 - INFO - training size = 62788
+2026-06-12 11:54:08,413 - INFO - training size = 62788
+2026-06-12 11:54:08,413 - INFO - Model:xgboost
+2026-06-12 11:54:08,413 - INFO - Model:xgboost
+2026-06-12 11:54:08,413 - INFO - training started
+2026-06-12 11:54:08,413 - INFO - training started
+2026-06-12 11:54:11,144 - INFO - training completed
+2026-06-12 11:54:11,144 - INFO - training completed
+2026-06-12 11:54:11,144 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 11:54:11,144 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:39:03,292 - INFO - preprocessing started
+2026-06-12 12:39:03,292 - INFO - preprocessing started
+2026-06-12 12:39:03,554 - INFO - preprocessing completed
+2026-06-12 12:39:03,554 - INFO - preprocessing completed
+2026-06-12 12:39:03,554 - INFO - training size = 62788
+2026-06-12 12:39:03,554 - INFO - training size = 62788
+2026-06-12 12:39:03,554 - INFO - Model:xgboost
+2026-06-12 12:39:03,554 - INFO - Model:xgboost
+2026-06-12 12:39:03,554 - INFO - training started
+2026-06-12 12:39:03,554 - INFO - training started
+2026-06-12 12:39:06,411 - INFO - training completed
+2026-06-12 12:39:06,411 - INFO - training completed
+2026-06-12 12:39:06,411 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:39:06,411 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:39:18,446 - INFO - preprocessing started
+2026-06-12 12:39:18,446 - INFO - preprocessing started
+2026-06-12 12:39:18,711 - INFO - preprocessing completed
+2026-06-12 12:39:18,711 - INFO - preprocessing completed
+2026-06-12 12:39:18,715 - INFO - training size = 62788
+2026-06-12 12:39:18,715 - INFO - training size = 62788
+2026-06-12 12:39:18,715 - INFO - Model:xgboost
+2026-06-12 12:39:18,715 - INFO - Model:xgboost
+2026-06-12 12:39:18,715 - INFO - training started
+2026-06-12 12:39:18,715 - INFO - training started
+2026-06-12 12:39:20,425 - INFO - training completed
+2026-06-12 12:39:20,425 - INFO - training completed
+2026-06-12 12:39:20,425 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:39:20,425 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:40:09,647 - INFO - preprocessing started
+2026-06-12 12:40:09,647 - INFO - preprocessing started
+2026-06-12 12:40:09,935 - INFO - preprocessing completed
+2026-06-12 12:40:09,935 - INFO - preprocessing completed
+2026-06-12 12:40:09,935 - INFO - training size = 62788
+2026-06-12 12:40:09,935 - INFO - training size = 62788
+2026-06-12 12:40:09,935 - INFO - Model:xgboost
+2026-06-12 12:40:09,935 - INFO - Model:xgboost
+2026-06-12 12:40:09,935 - INFO - training started
+2026-06-12 12:40:09,935 - INFO - training started
+2026-06-12 12:40:12,967 - INFO - training completed
+2026-06-12 12:40:12,967 - INFO - training completed
+2026-06-12 12:40:12,967 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:40:12,967 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:40:57,166 - INFO - preprocessing started
+2026-06-12 12:40:57,166 - INFO - preprocessing started
+2026-06-12 12:40:57,456 - INFO - preprocessing completed
+2026-06-12 12:40:57,456 - INFO - preprocessing completed
+2026-06-12 12:40:57,458 - INFO - training size = 62788
+2026-06-12 12:40:57,458 - INFO - training size = 62788
+2026-06-12 12:40:57,458 - INFO - Model:xgboost
+2026-06-12 12:40:57,458 - INFO - Model:xgboost
+2026-06-12 12:40:57,458 - INFO - training started
+2026-06-12 12:40:57,458 - INFO - training started
+2026-06-12 12:41:00,219 - INFO - training completed
+2026-06-12 12:41:00,219 - INFO - training completed
+2026-06-12 12:41:00,219 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:41:00,219 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:47:44,717 - INFO - preprocessing started
+2026-06-12 12:47:44,717 - INFO - preprocessing started
+2026-06-12 12:47:45,082 - INFO - preprocessing completed
+2026-06-12 12:47:45,082 - INFO - preprocessing completed
+2026-06-12 12:47:45,090 - INFO - training size = 62788
+2026-06-12 12:47:45,090 - INFO - training size = 62788
+2026-06-12 12:47:45,090 - INFO - Model:xgboost
+2026-06-12 12:47:45,090 - INFO - Model:xgboost
+2026-06-12 12:47:45,090 - INFO - training started
+2026-06-12 12:47:45,090 - INFO - training started
+2026-06-12 12:47:48,054 - INFO - training completed
+2026-06-12 12:47:48,054 - INFO - training completed
+2026-06-12 12:47:48,054 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:47:48,054 - ERROR - Experiment Failed: Model registry functionality is unavailable; got unsupported URI 'localhost:5000' for model registry data storage. Supported URI schemes are: ['', 'file', 'databricks', 'http', 'https', 'postgresql', 'mysql', 'sqlite', 'mssql']. See https://www.mlflow.org/docs/latest/tracking.html#storage for how to run an MLflow server against one of the supported backend storage locations.
+2026-06-12 12:49:36,755 - INFO - preprocessing started
+2026-06-12 12:49:36,755 - INFO - preprocessing started
+2026-06-12 12:49:37,068 - INFO - preprocessing completed
+2026-06-12 12:49:37,068 - INFO - preprocessing completed
+2026-06-12 12:49:37,084 - INFO - training size = 62788
+2026-06-12 12:49:37,084 - INFO - training size = 62788
+2026-06-12 12:49:37,084 - INFO - Model:xgboost
+2026-06-12 12:49:37,084 - INFO - Model:xgboost
+2026-06-12 12:49:37,084 - INFO - training started
+2026-06-12 12:49:37,084 - INFO - training started
+2026-06-12 12:49:39,901 - INFO - training completed
+2026-06-12 12:49:39,901 - INFO - training completed
+2026-06-12 12:49:39,950 - ERROR - Experiment Failed:API request to http://127.0.0.1:5000:5000/api/2.0/mlflow/experiments/list failed with exception Failed to parse: http://127.0.0.1:5000:5000/api/2.0/mlflow/experiments/list
+2026-06-12 12:49:39,950 - ERROR - Experiment Failed:API request to http://127.0.0.1:5000:5000/api/2.0/mlflow/experiments/list failed with exception Failed to parse: http://127.0.0.1:5000:5000/api/2.0/mlflow/experiments/list
+2026-06-12 12:50:30,196 - INFO - preprocessing started
+2026-06-12 12:50:30,196 - INFO - preprocessing started
+2026-06-12 12:50:30,499 - INFO - preprocessing completed
+2026-06-12 12:50:30,499 - INFO - preprocessing completed
+2026-06-12 12:50:30,499 - INFO - training size = 62788
+2026-06-12 12:50:30,499 - INFO - training size = 62788
+2026-06-12 12:50:30,499 - INFO - Model:xgboost
+2026-06-12 12:50:30,499 - INFO - Model:xgboost
+2026-06-12 12:50:30,499 - INFO - training started
+2026-06-12 12:50:30,499 - INFO - training started
+2026-06-12 12:50:33,310 - INFO - training completed
+2026-06-12 12:50:33,310 - INFO - training completed
+2026-06-12 12:51:38,831 - INFO - preprocessing started
+2026-06-12 12:51:38,831 - INFO - preprocessing started
+2026-06-12 12:51:39,148 - INFO - preprocessing completed
+2026-06-12 12:51:39,148 - INFO - preprocessing completed
+2026-06-12 12:51:39,149 - INFO - training size = 62788
+2026-06-12 12:51:39,149 - INFO - training size = 62788
+2026-06-12 12:51:39,150 - INFO - Model:xgboost
+2026-06-12 12:51:39,150 - INFO - Model:xgboost
+2026-06-12 12:51:39,150 - INFO - training started
+2026-06-12 12:51:39,150 - INFO - training started
+2026-06-12 12:51:42,024 - INFO - training completed
+2026-06-12 12:51:42,024 - INFO - training completed
+2026-06-12 12:51:42,115 - ERROR - Experiment Failed:'ModelLogger' object has no attribute 'experimet'
+2026-06-12 12:51:42,115 - ERROR - Experiment Failed:'ModelLogger' object has no attribute 'experimet'
+2026-06-12 12:53:49,892 - INFO - preprocessing started
+2026-06-12 12:53:49,892 - INFO - preprocessing started
+2026-06-12 12:53:50,216 - INFO - preprocessing completed
+2026-06-12 12:53:50,216 - INFO - preprocessing completed
+2026-06-12 12:53:50,218 - INFO - training size = 62788
+2026-06-12 12:53:50,218 - INFO - training size = 62788
+2026-06-12 12:53:50,218 - INFO - Model:xgboost
+2026-06-12 12:53:50,218 - INFO - Model:xgboost
+2026-06-12 12:53:50,218 - INFO - training started
+2026-06-12 12:53:50,218 - INFO - training started
+2026-06-12 12:53:53,075 - INFO - training completed
+2026-06-12 12:53:53,075 - INFO - training completed
+2026-06-12 12:53:53,122 - INFO - Experiment Name: experiment 1
+2026-06-12 12:53:53,122 - INFO - Experiment Name: experiment 1
+2026-06-12 13:02:09,627 - INFO - preprocessing started
+2026-06-12 13:02:09,627 - INFO - preprocessing started
+2026-06-12 13:02:09,928 - INFO - preprocessing completed
+2026-06-12 13:02:09,928 - INFO - preprocessing completed
+2026-06-12 13:02:09,928 - INFO - training size = 62788
+2026-06-12 13:02:09,928 - INFO - training size = 62788
+2026-06-12 13:02:09,928 - INFO - Model:xgboost
+2026-06-12 13:02:09,928 - INFO - Model:xgboost
+2026-06-12 13:02:09,928 - INFO - training started
+2026-06-12 13:02:09,928 - INFO - training started
+2026-06-12 13:02:12,745 - INFO - training completed
+2026-06-12 13:02:12,745 - INFO - training completed
+2026-06-12 13:02:12,791 - INFO - Experiment Name: experiment 1
+2026-06-12 13:02:12,791 - INFO - Experiment Name: experiment 1
+2026-06-12 13:08:34,243 - INFO - preprocessing started
+2026-06-12 13:08:34,243 - INFO - preprocessing started
+2026-06-12 13:08:34,623 - INFO - preprocessing completed
+2026-06-12 13:08:34,623 - INFO - preprocessing completed
+2026-06-12 13:08:34,623 - INFO - training size = 62788
+2026-06-12 13:08:34,623 - INFO - training size = 62788
+2026-06-12 13:08:34,623 - INFO - Model:xgboost
+2026-06-12 13:08:34,623 - INFO - Model:xgboost
+2026-06-12 13:08:34,623 - INFO - training started
+2026-06-12 13:08:34,623 - INFO - training started
+2026-06-12 13:08:37,560 - INFO - training completed
+2026-06-12 13:08:37,560 - INFO - training completed
+2026-06-12 13:08:37,602 - INFO - Experiment Name: experiment 1
+2026-06-12 13:08:37,602 - INFO - Experiment Name: experiment 1
+2026-06-12 13:08:37,914 - ERROR - Experiment Failed:'XGBModel' object has no attribute 'model'
+2026-06-12 13:08:37,914 - ERROR - Experiment Failed:'XGBModel' object has no attribute 'model'
+2026-06-12 13:10:44,002 - INFO - preprocessing started
+2026-06-12 13:10:44,002 - INFO - preprocessing started
+2026-06-12 13:10:44,319 - INFO - preprocessing completed
+2026-06-12 13:10:44,319 - INFO - preprocessing completed
+2026-06-12 13:10:44,319 - INFO - training size = 62788
+2026-06-12 13:10:44,319 - INFO - training size = 62788
+2026-06-12 13:10:44,319 - INFO - Model:xgboost
+2026-06-12 13:10:44,319 - INFO - Model:xgboost
+2026-06-12 13:10:44,319 - INFO - training started
+2026-06-12 13:10:44,319 - INFO - training started
+2026-06-12 13:10:47,209 - INFO - training completed
+2026-06-12 13:10:47,209 - INFO - training completed
+2026-06-12 13:10:47,249 - INFO - Experiment Name: experiment 1
+2026-06-12 13:10:47,249 - INFO - Experiment Name: experiment 1
+2026-06-12 13:10:47,609 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:10:47,609 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:11:33,220 - INFO - preprocessing started
+2026-06-12 13:11:33,220 - INFO - preprocessing started
+2026-06-12 13:11:33,538 - INFO - preprocessing completed
+2026-06-12 13:11:33,538 - INFO - preprocessing completed
+2026-06-12 13:11:33,554 - INFO - training size = 62788
+2026-06-12 13:11:33,554 - INFO - training size = 62788
+2026-06-12 13:11:33,554 - INFO - Model:xgboost
+2026-06-12 13:11:33,554 - INFO - Model:xgboost
+2026-06-12 13:11:33,554 - INFO - training started
+2026-06-12 13:11:33,554 - INFO - training started
+2026-06-12 13:11:36,433 - INFO - training completed
+2026-06-12 13:11:36,433 - INFO - training completed
+2026-06-12 13:11:36,475 - INFO - Experiment Name: experiment 1
+2026-06-12 13:11:36,475 - INFO - Experiment Name: experiment 1
+2026-06-12 13:11:36,816 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:11:36,816 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:13:23,273 - INFO - preprocessing started
+2026-06-12 13:13:23,273 - INFO - preprocessing started
+2026-06-12 13:13:23,618 - INFO - preprocessing completed
+2026-06-12 13:13:23,618 - INFO - preprocessing completed
+2026-06-12 13:13:23,618 - INFO - training size = 62788
+2026-06-12 13:13:23,618 - INFO - training size = 62788
+2026-06-12 13:13:23,618 - INFO - Model:xgboost
+2026-06-12 13:13:23,618 - INFO - Model:xgboost
+2026-06-12 13:13:23,618 - INFO - training started
+2026-06-12 13:13:23,618 - INFO - training started
+2026-06-12 13:13:26,464 - INFO - training completed
+2026-06-12 13:13:26,464 - INFO - training completed
+2026-06-12 13:13:26,504 - INFO - Experiment Name: experiment 1
+2026-06-12 13:13:26,504 - INFO - Experiment Name: experiment 1
+2026-06-12 13:13:26,829 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:13:26,829 - ERROR - Experiment Failed:log_model() got multiple values for argument 'artifact_path'
+2026-06-12 13:16:20,907 - INFO - preprocessing started
+2026-06-12 13:16:20,907 - INFO - preprocessing started
+2026-06-12 13:16:21,226 - INFO - preprocessing completed
+2026-06-12 13:16:21,226 - INFO - preprocessing completed
+2026-06-12 13:16:21,226 - INFO - training size = 62788
+2026-06-12 13:16:21,226 - INFO - training size = 62788
+2026-06-12 13:16:21,226 - INFO - Model:xgboost
+2026-06-12 13:16:21,226 - INFO - Model:xgboost
+2026-06-12 13:16:21,226 - INFO - training started
+2026-06-12 13:16:21,226 - INFO - training started
+2026-06-12 13:16:24,135 - INFO - training completed
+2026-06-12 13:16:24,135 - INFO - training completed
+2026-06-12 13:16:24,178 - INFO - Experiment Name: experiment 1
+2026-06-12 13:16:24,178 - INFO - Experiment Name: experiment 1
+2026-06-12 13:16:24,553 - ERROR - Experiment Failed:log_model() got an unexpected keyword argument 'name'
+2026-06-12 13:16:24,553 - ERROR - Experiment Failed:log_model() got an unexpected keyword argument 'name'
+2026-06-12 13:52:48,224 - INFO - preprocessing started
+2026-06-12 13:52:48,224 - INFO - preprocessing started
+2026-06-12 13:52:48,545 - INFO - preprocessing completed
+2026-06-12 13:52:48,545 - INFO - preprocessing completed
+2026-06-12 13:52:48,545 - INFO - training size = 62788
+2026-06-12 13:52:48,545 - INFO - training size = 62788
+2026-06-12 13:52:48,545 - INFO - Model:xgboost
+2026-06-12 13:52:48,545 - INFO - Model:xgboost
+2026-06-12 13:52:48,545 - INFO - training started
+2026-06-12 13:52:48,545 - INFO - training started
+2026-06-12 13:52:53,643 - INFO - training completed
+2026-06-12 13:52:53,643 - INFO - training completed
+2026-06-12 13:52:53,793 - INFO - Experiment Name: experiment 1
+2026-06-12 13:52:53,793 - INFO - Experiment Name: experiment 1
+2026-06-12 13:52:54,154 - ERROR - Experiment Failed:log_model() missing 1 required positional argument: 'artifact_path'
+2026-06-12 13:52:54,154 - ERROR - Experiment Failed:log_model() missing 1 required positional argument: 'artifact_path'
+2026-06-12 13:53:09,544 - INFO - preprocessing started
+2026-06-12 13:53:09,544 - INFO - preprocessing started
+2026-06-12 13:53:09,848 - INFO - preprocessing completed
+2026-06-12 13:53:09,848 - INFO - preprocessing completed
+2026-06-12 13:53:09,852 - INFO - training size = 62788
+2026-06-12 13:53:09,852 - INFO - training size = 62788
+2026-06-12 13:53:09,852 - INFO - Model:xgboost
+2026-06-12 13:53:09,852 - INFO - Model:xgboost
+2026-06-12 13:53:09,852 - INFO - training started
+2026-06-12 13:53:09,852 - INFO - training started
+2026-06-12 13:53:12,669 - INFO - training completed
+2026-06-12 13:53:12,669 - INFO - training completed
+2026-06-12 13:53:12,709 - INFO - Experiment Name: experiment 1
+2026-06-12 13:53:12,709 - INFO - Experiment Name: experiment 1
+2026-06-12 14:05:15,938 - INFO - preprocessing started
+2026-06-12 14:05:15,938 - INFO - preprocessing started
+2026-06-12 14:05:16,250 - INFO - preprocessing completed
+2026-06-12 14:05:16,250 - INFO - preprocessing completed
+2026-06-12 14:05:16,250 - INFO - training size = 62788
+2026-06-12 14:05:16,250 - INFO - training size = 62788
+2026-06-12 14:05:16,250 - INFO - Model:xgboost
+2026-06-12 14:05:16,250 - INFO - Model:xgboost
+2026-06-12 14:05:16,250 - INFO - training started
+2026-06-12 14:05:16,250 - INFO - training started
+2026-06-12 14:05:19,064 - INFO - training completed
+2026-06-12 14:05:19,064 - INFO - training completed
+2026-06-12 14:05:19,106 - INFO - Experiment Name: experiment 1
+2026-06-12 14:05:19,106 - INFO - Experiment Name: experiment 1
+2026-06-12 14:08:07,530 - INFO - preprocessing started
+2026-06-12 14:08:07,530 - INFO - preprocessing started
+2026-06-12 14:08:07,845 - INFO - preprocessing completed
+2026-06-12 14:08:07,845 - INFO - preprocessing completed
+2026-06-12 14:08:07,845 - INFO - training size = 62788
+2026-06-12 14:08:07,845 - INFO - training size = 62788
+2026-06-12 14:08:07,845 - INFO - Model:xgboost
+2026-06-12 14:08:07,845 - INFO - Model:xgboost
+2026-06-12 14:08:07,845 - INFO - training started
+2026-06-12 14:08:07,845 - INFO - training started
+2026-06-12 14:08:10,603 - INFO - training completed
+2026-06-12 14:08:10,603 - INFO - training completed
+2026-06-12 14:08:10,684 - INFO - Experiment Name: experiment 1
+2026-06-12 14:08:10,684 - INFO - Experiment Name: experiment 1
+2026-06-12 14:08:14,201 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:08:14,201 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:09:00,053 - INFO - preprocessing started
+2026-06-12 14:09:00,053 - INFO - preprocessing started
+2026-06-12 14:09:00,340 - INFO - preprocessing completed
+2026-06-12 14:09:00,340 - INFO - preprocessing completed
+2026-06-12 14:09:00,343 - INFO - training size = 62788
+2026-06-12 14:09:00,343 - INFO - training size = 62788
+2026-06-12 14:09:00,345 - INFO - Model:xgboost
+2026-06-12 14:09:00,345 - INFO - Model:xgboost
+2026-06-12 14:09:00,345 - INFO - training started
+2026-06-12 14:09:00,345 - INFO - training started
+2026-06-12 14:09:03,147 - INFO - training completed
+2026-06-12 14:09:03,147 - INFO - training completed
+2026-06-12 14:09:03,187 - INFO - Experiment Name: experiment 1
+2026-06-12 14:09:03,187 - INFO - Experiment Name: experiment 1
+2026-06-12 14:09:06,749 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:09:06,749 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:10:43,244 - INFO - preprocessing started
+2026-06-12 14:10:43,244 - INFO - preprocessing started
+2026-06-12 14:10:43,556 - INFO - preprocessing completed
+2026-06-12 14:10:43,556 - INFO - preprocessing completed
+2026-06-12 14:10:43,556 - INFO - training size = 62788
+2026-06-12 14:10:43,556 - INFO - training size = 62788
+2026-06-12 14:10:43,556 - INFO - Model:xgboost
+2026-06-12 14:10:43,556 - INFO - Model:xgboost
+2026-06-12 14:10:43,556 - INFO - training started
+2026-06-12 14:10:43,556 - INFO - training started
+2026-06-12 14:10:46,359 - INFO - training completed
+2026-06-12 14:10:46,359 - INFO - training completed
+2026-06-12 14:10:46,541 - INFO - Experiment Name: experiment 1
+2026-06-12 14:10:46,541 - INFO - Experiment Name: experiment 1
+2026-06-12 14:15:45,639 - INFO - preprocessing started
+2026-06-12 14:15:45,639 - INFO - preprocessing started
+2026-06-12 14:15:46,022 - INFO - preprocessing completed
+2026-06-12 14:15:46,022 - INFO - preprocessing completed
+2026-06-12 14:15:46,022 - INFO - training size = 62788
+2026-06-12 14:15:46,022 - INFO - training size = 62788
+2026-06-12 14:15:46,022 - INFO - Model:xgboost
+2026-06-12 14:15:46,022 - INFO - Model:xgboost
+2026-06-12 14:15:46,022 - INFO - training started
+2026-06-12 14:15:46,022 - INFO - training started
+2026-06-12 14:15:48,828 - INFO - training completed
+2026-06-12 14:15:48,828 - INFO - training completed
+2026-06-12 14:15:48,983 - INFO - Experiment Name: experiment 1
+2026-06-12 14:15:48,983 - INFO - Experiment Name: experiment 1
+2026-06-12 14:15:52,674 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:15:52,674 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-06-12 14:18:57,013 - INFO - preprocessing started
+2026-06-12 14:18:57,013 - INFO - preprocessing started
+2026-06-12 14:18:57,358 - INFO - preprocessing completed
+2026-06-12 14:18:57,358 - INFO - preprocessing completed
+2026-06-12 14:18:57,358 - INFO - training size = 62788
+2026-06-12 14:18:57,358 - INFO - training size = 62788
+2026-06-12 14:18:57,358 - INFO - Model:xgboost
+2026-06-12 14:18:57,358 - INFO - Model:xgboost
+2026-06-12 14:18:57,374 - INFO - training started
+2026-06-12 14:18:57,374 - INFO - training started
+2026-06-12 14:19:00,194 - INFO - training completed
+2026-06-12 14:19:00,194 - INFO - training completed
+2026-06-12 14:19:00,281 - INFO - Experiment Name: experiment 1
+2026-06-12 14:19:00,281 - INFO - Experiment Name: experiment 1
+2026-06-12 14:19:04,077 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-06-12 14:19:04,077 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-06-12 14:20:15,248 - INFO - preprocessing started
+2026-06-12 14:20:15,248 - INFO - preprocessing started
+2026-06-12 14:20:15,546 - INFO - preprocessing completed
+2026-06-12 14:20:15,546 - INFO - preprocessing completed
+2026-06-12 14:20:15,546 - INFO - training size = 62788
+2026-06-12 14:20:15,546 - INFO - training size = 62788
+2026-06-12 14:20:15,546 - INFO - Model:xgboost
+2026-06-12 14:20:15,546 - INFO - Model:xgboost
+2026-06-12 14:20:15,546 - INFO - training started
+2026-06-12 14:20:15,546 - INFO - training started
+2026-06-12 14:20:18,283 - INFO - training completed
+2026-06-12 14:20:18,283 - INFO - training completed
+2026-06-12 14:20:18,321 - INFO - Experiment Name: experiment 1
+2026-06-12 14:20:18,321 - INFO - Experiment Name: experiment 1
+2026-06-12 14:20:21,974 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-06-12 14:20:21,974 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-06-12 15:19:51,436 - INFO - preprocessing started
+2026-06-12 15:19:51,436 - INFO - preprocessing started
+2026-06-12 15:19:51,633 - INFO - preprocessing completed
+2026-06-12 15:19:51,633 - INFO - preprocessing completed
+2026-06-12 15:19:51,633 - INFO - training size = 62788
+2026-06-12 15:19:51,633 - INFO - training size = 62788
+2026-06-12 15:19:51,633 - INFO - Model:xgboost
+2026-06-12 15:19:51,633 - INFO - Model:xgboost
+2026-06-12 15:19:51,633 - INFO - training started
+2026-06-12 15:19:51,633 - INFO - training started
+2026-06-12 15:19:54,060 - INFO - training completed
+2026-06-12 15:19:54,060 - INFO - training completed

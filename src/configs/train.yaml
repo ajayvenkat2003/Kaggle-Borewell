@@ -1,0 +1,8 @@
+location: "dataset/train/*horizontal*.csv"
+target_column: TVT
+estimator:
+  model:
+    name: "xgboost"
+    max_depth: 3
+    n_estimators: 700
+    learning_rate: 0.15
