@@ -3,7 +3,6 @@ on:
   pull_request:
     branches:
       - master
-  push:
 
 jobs:
   test_format:
@@ -15,4 +14,9 @@ jobs:
         run: |
           docker build -t test_app:latest .
           docker run test_app:latest
+      - name: ruff-formatting
+        run: |
+          uv run ruff check
+          uv run ruff format
+        
 
