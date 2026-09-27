@@ -19,6 +19,6 @@ jobs:
       - name: create_containter
         run: |
           ls
-          ls Endpoins/
+          ls Endpoints/
           docker compose -f docker-compose-endpoint.yaml down 
           docker compose -f docker-compose-endpoint.yaml up --build
