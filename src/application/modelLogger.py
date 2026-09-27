@@ -18,6 +18,6 @@ class ModelLogger:
                 mlflow.log_params(model.get_params())
                 model_info = mlflow.xgboost.log_model(model.model, artifact_path="xgboost")
                 print(model_info.model_uri)
-                # mlflow.register_model(model_info.model_uri,name="xgboost")
+                mlflow.register_model(model_info.model_uri,name="xgboost")
         except Exception as e:
             self.logger.error(f"Experiment Failed:{e}")
