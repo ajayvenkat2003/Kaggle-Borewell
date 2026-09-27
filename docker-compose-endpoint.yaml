@@ -6,4 +6,4 @@ services:
     volumes:
       - ./Endpoints:/Endpoints
       - ./script.sh:/script.sh
-    entrypoint: /script.sh
+    entrypoint: ["/bin/sh", "/script.sh"]
