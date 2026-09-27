@@ -5,4 +5,5 @@ services:
       - "8000:8000"
     volumes:
       - ./Endpoints:/Endpoints
-    entrypoint: script.sh
+      - ./script.sh:/script.sh
+    entrypoint: /script.sh
