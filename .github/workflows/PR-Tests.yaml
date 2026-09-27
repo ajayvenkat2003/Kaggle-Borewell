@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v6
       - name: create container
         run: |
-          docker compose up docker-compose-train.yaml --build
+          docker compose -f docker-compose-train.yaml up --build
       
         
 
