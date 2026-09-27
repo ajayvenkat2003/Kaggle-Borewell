@@ -1,23 +1,19 @@
-name: 'pr_workflow'
+name: 'endpoint deployment'
+
 on:
-  pull_request:
-    branches:
-      - master
-  push:
-    branches:
-      - master
   workflow_dispatch:
 
 jobs:
-  test_format:
+  deploy:
     runs-on: self-hosted
     steps:
-      - name: checkout
+      - name: "partial checkout"
         uses: actions/checkout@v6
-      - name: create container
+        with:
+          sparse-checkout: |
+            Endpoints
+            docker-compose-endpoint.yaml 
+      - name: "create containter"
         run: |
-          docker compose -f docker-compose-train.yaml down -v 
-          docker compose -f docker-compose-train.yaml up --build
-      
-        
-
+          docker compose -f docker-compose-endpoint.yaml down 
+          docker compose -f docker-compose-endpoint.yaml up --build
