@@ -1,4 +1,4 @@
-name: 'endpoint deployment'
+name: 'endpoint_deployment'
 
 on:
   workflow_dispatch:
