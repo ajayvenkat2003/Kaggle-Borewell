@@ -1,4 +1,4 @@
-name: 'pr_workflow'
+name: pr_workflow
 on:
   pull_request:
     branches:
@@ -13,7 +13,7 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
       - name: create container
         run: |
           docker compose -f docker-compose-train.yaml down -v 
