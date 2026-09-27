@@ -1,7 +1,8 @@
 repos:
-  - repo: https://github.com
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev:  v0.15.17
     hooks:
-      - id: detect-secrets
-      - id: check-added-large-files
       - id: ruff
+        args: [--fix ]
       - id: ruff-format
+        args: [--fix]

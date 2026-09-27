@@ -1,0 +1,21 @@
+name : fastapi_deployment_flow
+on:
+  push:
+    branches:
+      - '*'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: partial_checkout
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            Endpoints
+            docker-compose-endpoint.yaml 
+      - name: create_containter
+        run: |
+          docker compose -f docker-compose-endpoint.yaml down 
+          docker compose -f docker-compose-endpoint.yaml up --build

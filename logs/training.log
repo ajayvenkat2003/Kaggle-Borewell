@@ -432,3 +432,85 @@
 2026-06-12 15:19:51,633 - INFO - training started
 2026-06-12 15:19:54,060 - INFO - training completed
 2026-06-12 15:19:54,060 - INFO - training completed
+2026-09-24 10:54:24,561 - INFO - preprocessing started
+2026-09-24 10:54:24,561 - INFO - preprocessing started
+2026-09-24 10:54:24,824 - INFO - preprocessing completed
+2026-09-24 10:54:24,824 - INFO - preprocessing completed
+2026-09-24 10:54:24,824 - INFO - training size = 66197
+2026-09-24 10:54:24,824 - INFO - training size = 66197
+2026-09-24 10:54:24,824 - INFO - Model:xgboost
+2026-09-24 10:54:24,824 - INFO - Model:xgboost
+2026-09-24 10:54:24,824 - INFO - training started
+2026-09-24 10:54:24,824 - INFO - training started
+2026-09-24 10:54:27,556 - INFO - training completed
+2026-09-24 10:54:27,556 - INFO - training completed
+2026-09-24 11:18:33,239 - INFO - preprocessing started
+2026-09-24 11:18:33,239 - INFO - preprocessing started
+2026-09-24 11:18:33,580 - INFO - preprocessing completed
+2026-09-24 11:18:33,580 - INFO - preprocessing completed
+2026-09-24 11:18:33,580 - INFO - training size = 66197
+2026-09-24 11:18:33,580 - INFO - training size = 66197
+2026-09-24 11:18:33,580 - INFO - Model:xgboost
+2026-09-24 11:18:33,580 - INFO - Model:xgboost
+2026-09-24 11:18:33,580 - INFO - training started
+2026-09-24 11:18:33,580 - INFO - training started
+2026-09-24 11:18:35,975 - INFO - training completed
+2026-09-24 11:18:35,975 - INFO - training completed
+2026-09-24 11:18:36,273 - INFO - Experiment Name: experiment 1
+2026-09-24 11:18:36,273 - INFO - Experiment Name: experiment 1
+2026-09-24 11:18:41,546 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-09-24 11:18:41,546 - ERROR - Experiment Failed:No module named 'distutils._modified'
+2026-09-24 14:32:11,506 - INFO - preprocessing started
+2026-09-24 14:32:11,506 - INFO - preprocessing started
+2026-09-24 14:32:11,731 - INFO - preprocessing completed
+2026-09-24 14:32:11,731 - INFO - preprocessing completed
+2026-09-24 14:32:11,731 - INFO - training size = 66197
+2026-09-24 14:32:11,731 - INFO - training size = 66197
+2026-09-24 14:32:11,731 - INFO - Model:xgboost
+2026-09-24 14:32:11,731 - INFO - Model:xgboost
+2026-09-24 14:32:11,731 - INFO - training started
+2026-09-24 14:32:11,731 - INFO - training started
+2026-09-24 14:32:14,505 - INFO - training completed
+2026-09-24 14:32:14,505 - INFO - training completed
+2026-09-24 14:32:14,559 - INFO - Experiment Name: experiment 1
+2026-09-24 14:32:14,559 - INFO - Experiment Name: experiment 1
+2026-09-24 14:32:17,896 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-09-24 14:32:17,896 - ERROR - Experiment Failed:API request to endpoint /api/2.0/preview/mlflow/registered-models/create failed with error code 404 != 200. Response body: '<!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+'
+2026-09-24 14:44:21,857 - INFO - preprocessing started
+2026-09-24 14:44:21,857 - INFO - preprocessing started
+2026-09-24 14:44:22,070 - INFO - preprocessing completed
+2026-09-24 14:44:22,070 - INFO - preprocessing completed
+2026-09-24 14:44:22,071 - INFO - training size = 66197
+2026-09-24 14:44:22,071 - INFO - training size = 66197
+2026-09-24 14:44:22,071 - INFO - Model:xgboost
+2026-09-24 14:44:22,071 - INFO - Model:xgboost
+2026-09-24 14:44:22,072 - INFO - training started
+2026-09-24 14:44:22,072 - INFO - training started
+2026-09-24 14:44:24,452 - INFO - training completed
+2026-09-24 14:44:24,452 - INFO - training completed
+2026-09-24 14:44:24,552 - INFO - Experiment Name: experiment 1
+2026-09-24 14:44:24,552 - INFO - Experiment Name: experiment 1
+2026-09-27 11:42:59,779 - INFO - preprocessing started
+2026-09-27 11:42:59,779 - INFO - preprocessing started
+2026-09-27 11:43:00,210 - INFO - preprocessing completed
+2026-09-27 11:43:00,210 - INFO - preprocessing completed
+2026-09-27 11:43:00,221 - INFO - training size = 66197
+2026-09-27 11:43:00,221 - INFO - training size = 66197
+2026-09-27 11:43:00,221 - INFO - Model:xgboost
+2026-09-27 11:43:00,221 - INFO - Model:xgboost
+2026-09-27 11:43:00,222 - INFO - training started
+2026-09-27 11:43:00,222 - INFO - training started
+2026-09-27 11:43:03,278 - INFO - training completed
+2026-09-27 11:43:03,278 - INFO - training completed
+2026-09-27 11:43:03,477 - INFO - Experiment Name: experiment 1
+2026-09-27 11:43:03,477 - INFO - Experiment Name: experiment 1

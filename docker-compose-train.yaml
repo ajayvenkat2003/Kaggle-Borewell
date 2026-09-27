@@ -1,0 +1,6 @@
+services:
+  train_job:
+    image: env:1
+    ports:
+      - 80:80
+    command: uv run train
