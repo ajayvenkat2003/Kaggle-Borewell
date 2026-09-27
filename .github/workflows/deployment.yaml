@@ -9,9 +9,9 @@ jobs:
       - name: "partial checkout"
         uses: actions/checkout@v6
         with:
-          sparse-checkout:
-            - /Endpoints
-            - /docker-compose-endpoint.yaml 
+          sparse-checkout: |
+            Endpoints
+            docker-compose-endpoint.yaml 
       - name: "create containter"
         run: |
           docker compose -f docker-compose-endpoint.yaml down 
