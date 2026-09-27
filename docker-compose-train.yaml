@@ -1,7 +1,6 @@
 services:
   train_job:
-    image: app:latest
+    image: env:1
     ports:
       - 80:80
-    network_mode: host
     command: uv run train
