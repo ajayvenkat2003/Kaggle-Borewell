@@ -18,6 +18,6 @@ jobs:
           sparse-checkout-cone-mode: false
       - name: create_containter
         run: |
-          ls
+          ls Endpoints/
           docker compose -f docker-compose-endpoint.yaml down 
           docker compose -f docker-compose-endpoint.yaml up --build
