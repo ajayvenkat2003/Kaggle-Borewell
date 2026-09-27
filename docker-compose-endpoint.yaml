@@ -2,7 +2,7 @@ services:
   endpoint:
     image: env:1
     ports:
-      - 8000:8000
+      - "8000:8000"
     volumes:
       - ./Endpoints:/Endpoints
-    entrypoint: /Endpoints/script.sh
+    entrypoint: script.sh
