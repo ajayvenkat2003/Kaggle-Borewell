@@ -1,0 +1,19 @@
+name: 'endpoint deployment'
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    steps:
+      - name: "partial checkout"
+        uses: actions/checkout@v6
+        with:
+          sparse-checkout: |
+            Endpoints
+            docker-compose-endpoint.yaml 
+      - name: "create containter"
+        run: |
+          docker compose -f docker-compose-endpoint.yaml down 
+          docker compose -f docker-compose-endpoint.yaml up --build
